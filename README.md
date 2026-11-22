@@ -39,6 +39,7 @@ backend / server
 |   ├── common.js
 |   ├── customErrors.js
 |   └── routes.js
+├── app.js
 └── index.js
 </pre>
 
